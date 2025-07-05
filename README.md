@@ -1,0 +1,1 @@
+A dead simple [Next.js] project that implements flipping cards between questions and answers. Featuring methods involving direct DOM manipulation (Ids, remove and add class) and React State based implementation which tracks for certain properties before updating state.
